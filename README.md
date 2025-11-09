@@ -22,37 +22,6 @@
 
 </p>
 
-
-<h2 align="left">Features</h2>
-
-- Auto scan 
-
-- Order snacks from the seat
-
-- Movie Reviews
-
-- Explore theatres, based on location
-
-- Theatre Reviews
-
-- Website complaints
-
-- Fascinating news related to movies
-
-
-<h2 align="left">Demo Video</h2>
-
-- Presented here is a brief overview video of our website, providing insights into its some of the functionalities and design.
-
-- Please take a moment to watch and gain an understanding of the platform's offerings.
-
-- For a more comprehensive understanding, please explore the website directly at https://service-at-your-seat.vercel.app
-
-  
-https://github.com/user-attachments/assets/e12361c7-7af9-4a3a-85d1-58417c3daa9b
-
-
-
 <h2 align="left">Installation</h2>
 <h3 align="center">To get started with this project, clone the repository or download the zip file.</h3>
 <h4 align="center">Install the necessary dependencies</h4>
@@ -84,6 +53,7 @@ nodemon server.js
 
 - 👨‍💻 Project is available at [https://github.com/Rupesh2728/Red-Flag.git]
   
+
 
 
 
