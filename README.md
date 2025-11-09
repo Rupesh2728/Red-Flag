@@ -1,6 +1,6 @@
 <h1 align="center">Red Flag</h1>
-<h3 align="center">This is an Chrome Extension application which will simply users to anaylze the risk factors with in terms and conditions, privacy policies for a given respective webpage</h3>
-<h4 align="center">You can visit our website at <a href="https://service-at-your-seat.vercel.app/" target="blank">https://simple-movie-explorer.vercel.app</a></h3>
+<h3 align="center">An Effective Chrome Extension application</h3>
+<h4 align="center">This application which will simply users to anaylze the risk factors with in terms and conditions, privacy policies for a given respective webpage</h3>
 
 
 <h2 align="left">Tech Stack and Tools :</h2>
@@ -8,29 +8,24 @@
 <img align="right" alt="coding" width="350" src="./Red Flag.svg">
 
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="80" height="80"/> </a>
+
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="80" height="80"/> </a>
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> </a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVQMFM-qae12rqhcQbmLgZCYqirxwOWc-yQQ&s" alt="redis" width="80" height="80"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a>
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="80"/> </a>
-<a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://www.hatimeria.com/images/marketing/vercel-logo.png" alt="vercel" width="90" height="40"/> </a>
 <a href="https://render.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1iBdgTFluBZIX9JbXDeEFdjfl-efmaUTc12k_LDam&s" alt="render" width="90" height="30"/> </a>
+<a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVRSNCZKUcvSYkmDLtSNNaRwRDh8rz5HxHA&s" alt="OpenAI" width="90" height="30"/> </a>
+
 </p>
 
 
 <h2 align="left">Features</h2>
 
-<h3 align="left">Multiple Dashboards</h3>
-
-<h3 align="left">Client : </h3> 
-
-- Book Cinema Tickets
+- Auto scan 
 
 - Order snacks from the seat
 
@@ -44,49 +39,8 @@
 
 - Fascinating news related to movies
 
-<h3 align="left">Theatre : </h3>
 
-- Rent movies to play in theatre
-
-- Add or remove a movie from theatre
-
-- Screen Seating Arrangement
-
-- Schedule shows
-
-- Add or remove Snacks
-
-- Maintain theatre profile
-
-- Observe theatre reviews
-
-<h3 align="left">Admin:</h3>
-
-- Theatre Verification
-
-- Announcements through Mass Mailing
-  
-- Add movies for rental purposes
-  
-- Remove any user
-
-- Remove any theatre
-  
-- Consider Website Reviews
-
-<h3 align="center"> General Features </h3> 
-
-- Login and Register, **Users and theatres can login and register**
-
-- Clean code and structure, **Well organised code, using MVC and REST Architecture in the server**
-
-- **Well designed and cool,interactive UI**
-
-- **Deployed both Frontend and Backend, on Vercel and Render respectively**
-
-- Included various Third-party Libraries,**Express,Mongoose,dotenv,Morgan,CORS,Concurrently etc.**
-
-<h2 align="left">Website Video</h2>
+<h2 align="left">Demo Video</h2>
 
 - Presented here is a brief overview video of our website, providing insights into its some of the functionalities and design.
 
@@ -95,7 +49,7 @@
 - For a more comprehensive understanding, please explore the website directly at https://service-at-your-seat.vercel.app
 
   
-https://github.com/user-attachments/assets/e12361c7-7af9-4a3a-85d1-58417c3daa9b
+https://github.com/Rupesh2728/Red-Flag.git
 
 
 
@@ -104,36 +58,33 @@ https://github.com/user-attachments/assets/e12361c7-7af9-4a3a-85d1-58417c3daa9b
 <h4 align="center">Install the necessary dependencies</h4>
 
 ```bash
-# Clone the repository
-git clone https://github.com/staion1504/Service-At-Your-Seat.git
+# Clone the repository 
+git clone https://github.com/Rupesh2728/Red-Flag.git
 
-# Navigate to the project directory
-cd Service-At-Your-Seat-main
+# Navigate to the project directory (Backend Server)
+cd Backend
 
 # Install dependencies
 npm install
 
 # Run the code
-npm run watch
+nodemon server.js
 ```
-
-
-
 
 <h2 align="left">Fellow Team Members</h2>
 
+- Sanchith Anand B 
 - Rupesh Chowdary Peddineni 
-- Saiteja Pagilla
-- Arun Koushik
-- Kusuma Teki
-- Mukesh
+- Maqsood
+- Faizal
 
 <h2 align="left">Contact Us</h2>
 
-- 📫 You can to reach us by mailing to **rupesh.p21@iiits.in** or **saiteja.p21@iiits.in** or **rupeshprofessional2728@gmail.com**
+- 📫 You can to reach us by mailing to **sanchithbanand@gmail.com** or **rupeshprofessional2728@gmail.com**
 
-- 👨‍💻 Project is available at [https://github.com/staion1504/Service-At-Your-Seat.git]
+- 👨‍💻 Project is available at [https://github.com/Rupesh2728/Red-Flag.git]
   
+
 
 
 
