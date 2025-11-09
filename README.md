@@ -1,11 +1,11 @@
-<h1 align="center">Service At Your Seat</h1>
-<h3 align="center">The application will allow users to book cinema tickets with ease and also contains added cool features</h3>
+<h1 align="center">Red Flag</h1>
+<h3 align="center">This is an Chrome Extension application which will simply users to anaylze the risk factors with in terms and conditions, privacy policies for a given respective webpage</h3>
 <h4 align="center">You can visit our website at <a href="https://service-at-your-seat.vercel.app/" target="blank">https://simple-movie-explorer.vercel.app</a></h3>
 
 
 <h2 align="left">Tech Stack and Tools :</h2>
 <h3 align="right">Logo Design</h3>
-<img align="right" alt="coding" width="350" src="./frontend/src/Assests/finalmainlogo.png">
+<img align="right" alt="coding" width="350" src="./Red Flag.svg">
 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a>
@@ -134,6 +134,7 @@ npm run watch
 
 - 👨‍💻 Project is available at [https://github.com/staion1504/Service-At-Your-Seat.git]
   
+
 
 
 
