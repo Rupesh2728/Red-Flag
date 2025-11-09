@@ -18,7 +18,7 @@
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="80"/> </a>
 <a href="https://render.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1iBdgTFluBZIX9JbXDeEFdjfl-efmaUTc12k_LDam&s" alt="render" width="90" height="30"/> </a>
-<a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVRSNCZKUcvSYkmDLtSNNaRwRDh8rz5HxHA&s" alt="OpenAI" width="90" height="30"/> </a>
+<a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVRSNCZKUcvSYkmDLtSNNaRwRDh8rz5HxHA&s" alt="OpenAI" width="90" height="90"/> </a>
 
 </p>
 
@@ -84,6 +84,7 @@ nodemon server.js
 
 - 👨‍💻 Project is available at [https://github.com/Rupesh2728/Red-Flag.git]
   
+
 
 
 
