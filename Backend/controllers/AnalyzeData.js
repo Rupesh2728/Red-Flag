@@ -13,7 +13,7 @@ const openai = new OpenAI({
 const getRedisClient = async () => {
   const client = createClient({
   username: "default",
-  password: "7zc7Vwr0T3jbzfsZKD5KvVl4RSyTb2MB", 
+  password: "<redis_key_here>", 
   socket: {
     host: "redis-14325.crce220.us-east-1-4.ec2.redns.redis-cloud.com",
     port: 14325,
