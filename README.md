@@ -76,7 +76,7 @@ nodemon server.js
 - Sanchith Anand B 
 - Rupesh Chowdary Peddineni 
 - Maqsood
-- Faizal
+- Faisal
 
 <h2 align="left">Contact Us</h2>
 
@@ -84,6 +84,7 @@ nodemon server.js
 
 - 👨‍💻 Project is available at [https://github.com/Rupesh2728/Red-Flag.git]
   
+
 
 
 
