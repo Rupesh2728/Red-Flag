@@ -23,8 +23,9 @@
 </p>
 
 <h2 align="left">Installation</h2>
-<h3 align="center">To get started with this project, clone the repository or download the zip file.</h3>
-<h4 align="center">Install the necessary dependencies</h4>
+<h3> Backend </h3>
+<h4 align="center">To get started with this project, clone the repository or download the zip file.</h4>
+<h5 align="center">Install the necessary dependencies</h5>
 
 ```bash
 # Clone the repository 
@@ -39,6 +40,13 @@ npm install
 # Run the code
 nodemon server.js
 ```
+<h2> Frontend ( Chrome Extension )</h2>
+
+1. Go to "⋮" on the top right in your google chrome
+2. Click on "Extensions"
+3. Enable developer mode on top right corner
+4. Click "Load Unpacked"
+5. Load the entire "Frontend" folder
 
 <h2 align="left">Fellow Team Members</h2>
 
